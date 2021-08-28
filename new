@@ -1,0 +1,5 @@
+
+Build project when push operation done on git hub:
+First we have to install git plugin  from the manage jenkins in the dashboard 
+    In that we have manage plugin option check in to that option 
+    we have list of updates,available,installed,advanced plugins of various tool 
